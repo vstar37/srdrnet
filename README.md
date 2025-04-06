@@ -16,7 +16,7 @@ To use this repository, follow the steps below to set up the environment:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/vstar37/srdrnet.git
-   cd SANet
+   cd srdrnet
 
 2.	**Install the required dependencies:**
     It is recommended to create a virtual environment first, then install the dependencies.
