@@ -1,5 +1,4 @@
-<h1 align="center">Structural Reconstruction and Dual-Prototype Refinement for
-Few-Shot 3D Point Cloud Semantic Segmentation</h1>
+<h1 align="center">Structural Bias Mitigation and Prototype Degradation Suppression for Few-Shot 3D Point Cloud Semantic Segmentation</h1>
 
 
 ## News :newspaper:
