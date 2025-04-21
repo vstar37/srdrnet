@@ -22,7 +22,7 @@ To use this repository, follow the steps below to set up the environment:
     It is recommended to create a virtual environment first, then install the dependencies.
     ```bash
     # PyTorch==2.0.1 is used for faster training with compilation.
-    conda create -n sanet python=3.10 -y && conda activate sanet
+    conda create -n srdrnet python=3.10 -y && conda activate srdrnet
     pip install -r requirements.txt
 
 3. **Download the datasets:**
